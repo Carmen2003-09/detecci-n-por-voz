@@ -1,7 +1,7 @@
 // Prefijo que se usará como palabra clave para activar comandos
 const ordenPrefijo = "NEXA";
 // DEFINICIÓN DEL ENDPOINT PARA LA COMUNICACIÓN CON LA API DE PHP
-const API_URL = "https://13.218.111.42/api-gpt-php/endpoints/chat.php";
+const API_URL = "https://44.197.229.37/api-gpt-php/endpoints/chat.php";
 
 // Espera a que el contenido del DOM esté completamente cargado antes de ejecutar el script
 document.addEventListener("DOMContentLoaded", () => {
